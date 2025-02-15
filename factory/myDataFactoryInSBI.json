@@ -1,0 +1,9 @@
+{
+	"name": "myDataFactoryInSBI",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d594448b-007a-45a6-bf63-4d0eceb79290",
+		"tenantId": "a5264962-b6be-4fe2-a976-7875cb70dcf1"
+	}
+}
