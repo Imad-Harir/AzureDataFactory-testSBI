@@ -1,0 +1,17 @@
+{
+	"name": "schedule",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 15,
+				"startTime": "2025-02-15T22:14:00",
+				"timeZone": "Morocco Standard Time"
+			}
+		}
+	}
+}
